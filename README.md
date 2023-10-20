@@ -6,6 +6,6 @@ Don't know what to cook with your ingredients? Let FindMyRecipe do the work for 
 ![Screenshot_78](https://github.com/AlexPT2k22/FindMyRecipe/assets/116266537/cde10bef-6b06-4db7-b2ba-aeadd628152b)
 
 
-This program uses Edamam API in order to work: https://www.edamam.com/
+This program uses Edamam API to work: https://www.edamam.com/
 
-This is an *Open-Source* program, you can see how it works.
+This is an *Open-Source* program, you can see how it works and contributes.
