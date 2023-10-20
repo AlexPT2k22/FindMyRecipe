@@ -4,9 +4,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-api_id = os.getenv("api_id")
-api_key = os.getenv("api_key")
-url = os.getenv("url")
+api_id = os.getenv("api_id") #Get your credentials in Edamam.com
+api_key = os.getenv("api_key") #Get your credentials in Edamam.com
+url = os.getenv("url") #https://api.edamam.com/search
 
 user_ingredients = input("Enter the ingredients you have: ")
 print("\n-------------------------------")
