@@ -1,5 +1,10 @@
-# FindMyRecipe v1.0
+# FindMyRecipe v1.1
 Don't know what to cook with your ingredients? Let FindMyRecipe do the work for you! Input the ingredients available with you, and you'll be prompted with various recipes!
+
+WEBSITE: https://find-my-recipe-web.vercel.app/
+
+![image](https://github.com/AlexPT2k22/FindMyRecipe/assets/116266537/bbdcee5b-9a33-49da-bcad-5a4c60eb5313)
+
 
 ![Screenshot_77](https://github.com/AlexPT2k22/FindMyRecipe/assets/116266537/868d7c60-9dd4-4251-83e9-31a6e39dd222)
 
@@ -8,4 +13,4 @@ Don't know what to cook with your ingredients? Let FindMyRecipe do the work for 
 
 This program uses Edamam API to work: https://www.edamam.com/
 
-This is an *Open-Source* program, you can see how it works and contributes.
+This is an *Open-Source* program, you can see how it works and contribute.
