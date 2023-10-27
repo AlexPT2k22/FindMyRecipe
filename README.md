@@ -5,6 +5,7 @@ WEBSITE: https://find-my-recipe-web.vercel.app/
 
 ![image](https://github.com/AlexPT2k22/FindMyRecipe/assets/116266537/bbdcee5b-9a33-49da-bcad-5a4c60eb5313)
 
+TERMINAL:
 
 ![Screenshot_77](https://github.com/AlexPT2k22/FindMyRecipe/assets/116266537/868d7c60-9dd4-4251-83e9-31a6e39dd222)
 
